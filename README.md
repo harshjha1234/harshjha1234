@@ -39,7 +39,7 @@ My motto is being determined towards the software world and its development for 
  </table>
 
 # Experience
-- [Cube27]([https://www.cube27.com/])
+- [Cube27](https://www.cube27.com/)
   - <b>Business Analyst Intern</b> - <b>June 2024 - Present</b>
 - [Feedonomics](https://feedonomics.com/)
   - <b>Feed Build I</b> - <b>July 2024 - Present</b>
